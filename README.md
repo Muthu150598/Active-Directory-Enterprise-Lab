@@ -1,10 +1,10 @@
 # Enterprise Active Directory Infrastructure Lab
 
-## Project Objective
-The objective of this lab is to design, deploy, and configure a fully functional Microsoft Active Directory (AD) infrastructure within an isolated, virtualized sandbox. This project demonstrates foundational skills in enterprise system administration, including network isolation, centralized identity management, security hardening via Group Policy Objects (GPOs), and automated resource provisioning.
+## Project ObjectiveThe objective of this project is to build and manage a complete enterprise Active Directory environment using Windows Server 2022. It demonstrates core system administration tasks, including Active Directory Domain Services (AD DS), DNS, DHCP, Group Policy (GPO), Organizational Unit (OU) management, user and group administration, file sharing, NTFS permissions, domain joining, and PowerShell automation. This lab simulates a real-world corporate infrastructure to develop practical Windows Server administration and troubleshooting skills.
 
 ## Technologies & Core Utilities Used
 * **Hypervisor:** Oracle VirtualBox (Internal Network Isolation)
+* **Nutanix AHV (Acropolis Hypervisor)
 * **Operating Systems:** Windows Server 2022 (Domain Controller), Windows 10 Enterprise (Workstation Node)
 * **Directory Services:** Active Directory Domain Services (AD DS), DNS
 * **Management Consoles:** Server Manager, Active Directory Users and Computers (ADUC), Group Policy Management, Administrative Templates
