@@ -4,7 +4,7 @@
 
 ## Technologies & Core Utilities Used
 * **Hypervisor:** Oracle VirtualBox (Internal Network Isolation)
-* **Nutanix AHV (Acropolis Hypervisor)
+* **Nutanix:** Nutanix AHV (Acropolis Hypervisor)
 * **Operating Systems:** Windows Server 2022 (Domain Controller), Windows 10 Enterprise (Workstation Node)
 * **Directory Services:** Active Directory Domain Services (AD DS), DNS
 * **Management Consoles:** Server Manager, Active Directory Users and Computers (ADUC), Group Policy Management, Administrative Templates
